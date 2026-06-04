@@ -32,3 +32,24 @@ During development, I focused on several core UI/UX principles:
 - **White Space** — Injected deliberate spacing (padding and margins) to create a clean and professional feel
 
 ## 📂 Project Structure
+
+```
+.
+├── assets/
+│   └── Images/          # Profile picture and project assets
+├── CSS/
+│   └── style.css        # External custom styles
+└── index.html           # Main website structure
+```
+## 👤 Author
+
+**Tomás Cancheff**  
+Aspiring Web Developer & Game Designer
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open `index.html` in your preferred browser
+3. Enjoy the site!
